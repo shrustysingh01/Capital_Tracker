@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Capital_Tracker/static/css/main.71863933.chunk.css",
+    "main.js": "/Capital_Tracker/static/js/main.4f11b06d.chunk.js",
+    "main.js.map": "/Capital_Tracker/static/js/main.4f11b06d.chunk.js.map",
+    "runtime-main.js": "/Capital_Tracker/static/js/runtime-main.3ff23967.js",
+    "runtime-main.js.map": "/Capital_Tracker/static/js/runtime-main.3ff23967.js.map",
+    "static/js/2.c891c548.chunk.js": "/Capital_Tracker/static/js/2.c891c548.chunk.js",
+    "static/js/2.c891c548.chunk.js.map": "/Capital_Tracker/static/js/2.c891c548.chunk.js.map",
+    "index.html": "/Capital_Tracker/index.html",
+    "static/css/main.71863933.chunk.css.map": "/Capital_Tracker/static/css/main.71863933.chunk.css.map",
+    "static/js/2.c891c548.chunk.js.LICENSE.txt": "/Capital_Tracker/static/js/2.c891c548.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Capital_Tracker/static/media/money.9eedd35c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3ff23967.js",
+    "static/js/2.c891c548.chunk.js",
+    "static/css/main.71863933.chunk.css",
+    "static/js/main.4f11b06d.chunk.js"
+  ]
+}
